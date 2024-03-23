@@ -26,6 +26,7 @@ The  vite module federation as well as webpack's were by default designed to loa
 
 -   import other components and files into exposed component
 -   use external libraries 
+-   share dependencies∂
 
 
 
