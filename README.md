@@ -25,9 +25,9 @@ The  vite module federation as well as webpack's were by default designed to loa
 #### Todos
 
 - [X] load component dynamically and render them 
-- []  import other components and files into exposed component
-- []  use external libraries 
-- []  share dependencies∂
+- [ ]  import other components and files into exposed component
+- [ ]  use external libraries 
+- [ ]  share dependencies∂
 
 
 
