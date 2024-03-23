@@ -15,7 +15,7 @@ The  vite module federation as well as webpack's were by default designed to loa
 
 ## Proposed Solution
 
-1.  In the App.js, fetch a config file (that contains info about all remote app: app name, url) through a fetch call on initial render, then the config file is iterated through and use to get the exposed composed component on the remote with dynamic import
+### In the App.js, fetch a config file (that contains info about all remote app: app name, url) through a fetch call on initial render, then the config file is iterated through and use to get the exposed composed component on the remote with dynamic import
 
 #### Challenges
 
@@ -30,7 +30,7 @@ The  vite module federation as well as webpack's were by default designed to loa
 - [ ]  share dependencies∂
 
 
-2.  Appending each remote component to the script tag of the host
+### Appending each remote component to the script tag of the host
 
 #### Challenges
 
