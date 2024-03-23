@@ -30,6 +30,15 @@ The  vite module federation as well as webpack's were by default designed to loa
 - [ ]  share dependencies∂
 
 
+2.  Appending each remote component to the script tag of the host
+
+#### Challenges
+
+
+
+
+#### Todos
+
 
 
 # Installation
